@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.exe
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.deps.json
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.runtimeconfig.json
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.dll
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ref\ConsolAttributeReflection.dll
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\bin\Debug\net5.0\ConsolAttributeReflection.pdb
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.dll
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ref\ConsolAttributeReflection.dll
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.pdb
+C:\Users\User\source\repos\CSharpPart4\ConsolAttributeReflection\obj\Debug\net5.0\ConsolAttributeReflection.genruntimeconfig.cache
